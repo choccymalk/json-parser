@@ -1,0 +1,1 @@
+add this to dependencies in build.gradle: implementation 'com.google.code.gson:gson:2.12.1'
